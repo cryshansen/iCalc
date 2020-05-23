@@ -1,0 +1,325 @@
+TiCalc
+v7
+r0
+t318741081.722496
+cCheck dependencies
+cProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/Info.plist" iCalc-Info.plist
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/MainWindow.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.xib"
+cCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalcView.xib"
+cCpResource build/Debug-iphonesimulator/iCalc.app/icon.png icon.png
+cProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch.gch iCalc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcAppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalculator.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalculator.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc" normal i386
+cGenerateDSYMFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app.dSYM" "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc"
+cTouch "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcAppDelegate.h
+c000000004D4F60BD00000000000001D4
+t1297047741
+s468
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcAppDelegate.m
+c000000004D4F62C1000000000000030D
+t1297048257
+s781
+i"iCalcAppDelegate.h"
+i"iCalcViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.h
+c000000004D4F01200000000000000156
+t1297023264
+s342
+i<UIKit/UIKit.h>
+i"iCalculator.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.m
+c000000004D4F5A71000000000000066F
+t1297046129
+s1647
+i"iCalcViewController.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.xib
+c000000004D4F00CD0000000000001874
+t1297023181
+s6260
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalculator.h
+c000000004D4F5796000000000000019E
+t1297045398
+s414
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalculator.m
+c000000004D4F59900000000000000BE2
+t1297045904
+s3042
+i"iCalculator.h"
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/MainWindow.xib
+c000000004D4F418B00000000000044F3
+t1297039755
+s17651
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app
+t1297048268
+s306
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app.dSYM
+t1297048268
+s102
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/Info.plist
+t1297047555
+s583
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/MainWindow.nib
+t1297047556
+s1529
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/PkgInfo
+t1297047555
+s8
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc
+t1297048268
+s23064
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalcView.nib
+t1297048268
+s8286
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalcViewController.nib
+t1297047556
+s1231
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/icon.png
+t1297047556
+s21356
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalc.LinkFileList
+c000000004D4F60030000000000000242
+t1297047555
+s578
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcAppDelegate.o
+t1297048268
+s46688
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcViewController.o
+t1297047557
+s38428
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalculator.o
+t1297047557
+s15836
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/main.o
+t1297047557
+s6340
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalcView.xib
+c000000004D4F6250000000000000CB40
+t1297048144
+s52032
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalc_Prefix.pch
+c000000004D4EB9D800000000000000B3
+t1297005016
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/icon.png
+c000000004D4F48C5000000000000536C
+t1297041605
+s21356
+
+N/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/main.m
+c000000004D4EB9D8000000000000016A
+t1297005016
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch.gch
+t1297047557
+s15211536
+
+NiCalc-Info.plist
+c000000004D4EB9D8000000000000038D
+t1297005016
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318741081#318741081#0(0"0(0#1#0"8625385056#0"0#
+
+CCompileC build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcAppDelegate.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318741068.613174
+e318741068.719501
+r1
+xCompileC
+xbuild/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcAppDelegate.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcAppDelegate.m318741068#318741068#0(0"0(0#0#83"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcAppDelegate.m8622867584#2126"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcAppDelegate.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcAppDelegate.o"0#
+
+CCompileC build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcViewController.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318740357.612434
+e318740357.672026
+r1
+xCompileC
+xbuild/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcViewController.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.m318740357#318740357#0(0"0(0#0#86"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.m8614499296#2132"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalcViewController.o"0#
+
+CCompileC build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalculator.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalculator.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318740357.584345
+e318740357.646703
+r1
+xCompileC
+xbuild/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalculator.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalculator.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalculator.m318740357#318740357#0(0"0(0#0#78"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalculator.m8615735744#2116"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalculator.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalculator.o"0#
+
+CCompileC build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/main.o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318740357.535282
+e318740357.584246
+r1
+xCompileC
+xbuild/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/main.o
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/main.m318740357#318740357#0(0"0(0#0#63"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/main.m8623251872#2094"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources" -include /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/main.m" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.xib"
+s318740355.831890
+e318740356.259504
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.xib
+lSLF07#2@42"CompileXIB Classes/iCalcViewController.xib318740355#318740356#0(0"0(0#0#88"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.xib8621708896#654"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalcViewController.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/Classes/iCalcViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/MainWindow.xib"
+s318740355.831227
+e318740356.249924
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318740355#318740356#0(0"0(0#0#71"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/MainWindow.xib8621888640#628"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/MainWindow.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalcView.xib"
+s318741068.047040
+e318741068.612855
+r1
+xCompileXIB
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalcView.xib
+lSLF07#2@24"CompileXIB iCalcView.xib318741068#318741068#0(0"0(0#0#70"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalcView.xib8622333888#626"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalcView.nib" "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalcView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iCalc.app/icon.png icon.png
+s318740356.259578
+e318740356.291952
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iCalc.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png318740356#318740356#0(0"0(0#0#65"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/icon.png8623061088#510"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/icon.png" "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app"0#
+
+CGenerateDSYMFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app.dSYM" "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc"
+s318741068.738495
+e318741068.755093
+r1
+xGenerateDSYMFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app.dSYM
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/iCalc.app.dSYM build/Debug-iphonesimulator/iCalc.app/iCalc318741068#318741068#0(0"0(0#0#100"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc8624364416#437"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc" -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app.dSYM"0#
+
+CLd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc" normal i386
+s318741068.719578
+e318741068.738408
+r1
+xLd
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc
+xnormal
+xi386
+lSLF07#2@105"Link /Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc318741068#318741068#0(0"0(0#0#0"8624914400#990"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator" -filelist "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/Objects-normal/i386/iCalc.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/iCalc"0#
+
+CProcessInfoPlistFile "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/Info.plist" iCalc-Info.plist
+s318740355.827003
+e318740355.831063
+r1
+xProcessInfoPlistFile
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/Info.plist
+xiCalc-Info.plist
+lSLF07#2@24"Process iCalc-Info.plist318740355#318740355#0(0"0(0#0#73"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalc-Info.plist8622434304#533"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iCalc-Info.plist -genpkginfo "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app/Info.plist"0#
+
+CProcessPCH /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch.gch iCalc_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318740356.859082
+e318740357.535113
+r1
+xProcessPCH
+x/var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch.gch
+xiCalc_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile iCalc_Prefix.pch318740356#318740357#0(0"0(0#0#73"/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalc_Prefix.pch8626306272#1968"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-generated-files.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-own-target-headers.hmap" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-all-target-headers.hmap" -iquote "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/iCalc-project-headers.hmap" "-F/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/include" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources/i386" "-I/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/iCalc.build/Debug-iphonesimulator/iCalc.build/DerivedSources" -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/iCalc_Prefix.pch" -o /var/folders/-B/-BKJAda1ELuiFBnQd9b0jU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCalc_Prefix-dqisnimstzrgojaftilxlcdesale/iCalc_Prefix.pch.gch0#
+
+CTouch "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app"
+s318741068.755166
+e318741068.757508
+r1
+xTouch
+x/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app
+lSLF07#2@100"Touch /Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app318741068#318741068#0(0"0(0#0#0"8623570048#316"    cd "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/pocket_goddess/Documents/_Projects - iPhone/iCalc/build/Debug-iphonesimulator/iCalc.app"0#
+
